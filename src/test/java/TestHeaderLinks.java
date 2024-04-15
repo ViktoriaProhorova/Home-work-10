@@ -4,7 +4,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TestForHeaderLinks {
+public class TestHeaderLinks {
     @Test
     public void checkClickingHomeSign() {
         WebDriver driver = new ChromeDriver();
